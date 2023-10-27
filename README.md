@@ -28,3 +28,4 @@ warnings.filterwarnings('ignore')
 - **DATA ANALYSIS**: Here, the actual analysis of the data takes place. This section contains the statistical tests, visualizations, and exploratory data analysis (EDA) conducted to gain insights into the dataset. It provides a comprehensive view of the data and uncovers patterns or trends.
 - **INSIGHT AND RECOMMENDATION**: This section summarizes the key insights obtained from the data analysis. It also provides actionable recommendations based on those insights. The goal is to translate data findings into practical steps or strategies that can be implemented to address the initial objectives or questions outlined in the "ASK" section.
 
+Tableau: https://public.tableau.com/app/profile/muhammad.ibnu4594/viz/analysiscapstoneproject2/Story1
